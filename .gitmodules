@@ -1,0 +1,24 @@
+[submodule "bundle/delimitMate"]
+	path = bundle/delimitMate
+	url = https://github.com/Raimondi/delimitMate
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree
+[submodule "bundle/python-mode"]
+	path = bundle/python-mode
+	url = https://github.com/klen/python-mode
+[submodule "bundle/gundo.vim"]
+	path = bundle/gundo.vim
+	url = https://github.com/sjl/gundo.vim
+[submodule "bundle/vim-snipmate.git"]
+	path = bundle/vim-snipmate.git
+	url = git://github.com/garbas/vim-snipmate.git
+[submodule "bundle/tlib_vim.git"]
+	path = bundle/tlib_vim.git
+	url = https://github.com/tomtom/tlib_vim.git
+[submodule "bundle/vim-addon-mw-utils.git"]
+	path = bundle/vim-addon-mw-utils.git
+	url = https://github.com/MarcWeber/vim-addon-mw-utils.git
+[submodule "bundle/snipmate-snippets.git"]
+	path = bundle/snipmate-snippets.git
+	url = https://github.com/honza/snipmate-snippets.git
