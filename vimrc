@@ -6,10 +6,11 @@ call pathogen#helptags() " generate helptags for everything in 'runtimepath'
 filetype plugin indent on
 syntax on
 filetype on
+runtime macros/matchit.vim
 
 set encoding=utf-8
-
 set sts=4 sw=4 sw=4 et
+
 set colorcolumn=80
 
 set nocompatible
@@ -17,6 +18,9 @@ set autoindent
 set backspace=indent,eol,start
 
 set statusline=%F%m%r%h%w%=(%{&ff}/%Y)\ (line\ %l\/%L,\ col\ %c)
+
+set hls
+set incsearch
 
 
 " Splited windows moving
